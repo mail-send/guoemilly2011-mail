@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/guoemilly2011-mail/static/css/main.e6c13ad2.css",
+    "main.js": "/guoemilly2011-mail/static/js/main.ca92dbd1.js",
+    "static/css/590.1a443029.chunk.css": "/guoemilly2011-mail/static/css/590.1a443029.chunk.css",
+    "static/js/590.8a1d862a.chunk.js": "/guoemilly2011-mail/static/js/590.8a1d862a.chunk.js",
+    "static/js/787.80e555cc.chunk.js": "/guoemilly2011-mail/static/js/787.80e555cc.chunk.js",
+    "static/js/484.db4b6d5c.chunk.js": "/guoemilly2011-mail/static/js/484.db4b6d5c.chunk.js",
+    "index.html": "/guoemilly2011-mail/index.html",
+    "main.e6c13ad2.css.map": "/guoemilly2011-mail/static/css/main.e6c13ad2.css.map",
+    "main.ca92dbd1.js.map": "/guoemilly2011-mail/static/js/main.ca92dbd1.js.map",
+    "590.1a443029.chunk.css.map": "/guoemilly2011-mail/static/css/590.1a443029.chunk.css.map",
+    "590.8a1d862a.chunk.js.map": "/guoemilly2011-mail/static/js/590.8a1d862a.chunk.js.map",
+    "787.80e555cc.chunk.js.map": "/guoemilly2011-mail/static/js/787.80e555cc.chunk.js.map",
+    "484.db4b6d5c.chunk.js.map": "/guoemilly2011-mail/static/js/484.db4b6d5c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.ca92dbd1.js"
+  ]
+}
